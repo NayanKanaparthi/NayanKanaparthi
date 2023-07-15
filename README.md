@@ -15,7 +15,7 @@ Here are some of the key technologies and frameworks I have worked with:
 - **TensorFlow**: TensorFlow is another essential framework in my toolkit. It enables me to build and train deep neural networks, allowing for complex pattern recognition and deep learning tasks.
 - **Anaconda**: Anaconda is a comprehensive distribution platform that simplifies the management of Python and its dependencies. I often utilize Anaconda to create reproducible and scalable ML environments.
 
-##Get in Touch
+## Get in Touch
 
 If you're interested in collaborating or discussing AI and machine learning projects, feel free to reach out. You can contact me through my GitHub profile or connect with me on LinkedIn (https://www.linkedin.com/in/nayan-kanaparthi-7383a2183/).
 
