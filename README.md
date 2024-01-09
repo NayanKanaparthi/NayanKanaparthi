@@ -14,6 +14,8 @@ Here are some of the key technologies and frameworks I have worked with:
 - **Scikit Learn**: I have extensive experience with Scikit Learn, a popular machine learning library in Python. It provides a wide range of algorithms and tools for classification, regression, clustering, and more.
 - **TensorFlow**: TensorFlow is another essential framework in my toolkit. It enables me to build and train deep neural networks, allowing for complex pattern recognition and deep learning tasks.
 - **Anaconda**: Anaconda is a comprehensive distribution platform that simplifies the management of Python and its dependencies. I often utilize Anaconda to create reproducible and scalable ML environments.
+- **OpenCV**: I possess skills in OpenCV, a versatile computer vision library, which I have used for image and video processing tasks. OpenCV has been a crucial tool in my toolkit for implementing computer vision algorithms, enhancing my ability to analyze visual data.
+- **MediaPipe**: My experience includes working with MediaPipe, a powerful library for building perception pipelines. I have applied MediaPipe for tasks such as hand tracking, face detection, and pose estimation, contributing to my expertise in real-time computer vision applications.
 
 ## Get in Touch
 
